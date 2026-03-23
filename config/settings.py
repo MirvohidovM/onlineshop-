@@ -98,7 +98,7 @@ SIMPLE_JWT = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',        # DBeaver-da ko‘rib turgan DB nomi
+        'NAME': 'onlineshop',        # DBeaver-da ko‘rib turgan DB nomi
         'USER': 'postgres',        # foydalanuvchi
         'PASSWORD': '2183707',        # oldin o‘rnatgan paroling
         'HOST': 'localhost',
