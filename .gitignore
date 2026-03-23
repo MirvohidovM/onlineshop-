@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+venv/
+.env/
+
+# Django
+*.log
+db.sqlite3
+media/
+
+# Static files (agar collectstatic ishlatilsa)
+staticfiles/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.pyc
+static/
+
+
+# Python
+*.egg
+*.egg-info/
+*.pot
+
+# Virtual environment
+ENV/
+env/
+*.venv
+
+# Django
+*.sqlite3
+/media/
+
+# Environment files
+.env.*.env
